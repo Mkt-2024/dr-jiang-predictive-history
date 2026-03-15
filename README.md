@@ -35,7 +35,7 @@ This chatbot embodies that persona, trained on:
 4. Start asking Professor Jiang about history, geopolitics, or civilisation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dr-jiang-predictive-history.git
+git clone https://github.com/Mkt-2024/dr-jiang-predictive-history.git
 cd dr-jiang-predictive-history
 open index.html   # macOS
 # or just double-click index.html on Windows/Linux
@@ -58,7 +58,7 @@ Turn this into a shareable link in 3 steps:
    git init
    git add .
    git commit -m "Initial commit — Dr. Jiang AI persona"
-   git remote add origin https://github.com/YOUR_USERNAME/dr-jiang-predictive-history.git
+   git remote add origin https://github.com/Mkt-2024/dr-jiang-predictive-history.git
    git push -u origin main
    ```
 
@@ -69,7 +69,7 @@ Turn this into a shareable link in 3 steps:
 
 3. **Share your URL:**
    ```
-   https://YOUR_USERNAME.github.io/dr-jiang-predictive-history/
+   https://Mkt-2024.github.io/dr-jiang-predictive-history/
    ```
 
 GitHub Pages will serve `index.html` automatically. Your visitors enter their own Anthropic API keys — you pay nothing for their usage.
