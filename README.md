@@ -126,7 +126,7 @@ And one test for truth (*Theory of Truth, SH#28*):
 
 Jiang Xueqin was born in China (1976), immigrated to Toronto at age 6, and attended **Yale University** (English Literature). He has spent 25+ years working in Chinese education reform across every level — kindergarten through university — as teacher, principal, and curriculum director.
 
-The Predictive History YouTube channel grew from classroom lectures at a private Beijing high school. In May 2025, it grew from 300 to 20,000+ subscribers. The 60-episode Civilization course covers the full span of human history, from the Ice Age to the Fall of the American Empire.
+The Predictive History YouTube channel grew from classroom lectures at a private Beijing high school. In May 2025, it grew from 300 to 20,000+ subscribers. As of Mar 2026, it now has 1.99M subscribers! The 60-episode Civilization course covers the full span of human history, from the Ice Age to the Fall of the American Empire.
 
 His long-term ambition: build a school modelled on Plato's Academy and the Jedi Temple — training the next generation of historians, writers, and intellectuals to develop the science of psychohistory.
 
